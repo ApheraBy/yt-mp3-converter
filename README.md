@@ -9,4 +9,4 @@
 
 # ⚠ | Uyarı
 - Bu projenin alınıp başka bir yerde paylaşılması veya sahiplenmesi katiyen yasaktır, `MIT` lisansı ile korunmaktadır.
-https://cdn.discordapp.com/attachments/1146116131925528658/1146116252079763476/Aphera_1.jpg
+![Aphera (1)](https://github.com/ApheraBy/yt-mp3-converter/assets/74432256/2e8a8c69-160b-4232-8735-70614a60aff9)
