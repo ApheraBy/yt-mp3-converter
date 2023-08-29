@@ -9,3 +9,4 @@
 
 # ⚠ | Uyarı
 - Bu projenin alınıp başka bir yerde paylaşılması veya sahiplenmesi katiyen yasaktır, `MIT` lisansı ile korunmaktadır.
+https://cdn.discordapp.com/attachments/1146116131925528658/1146116252079763476/Aphera_1.jpg
